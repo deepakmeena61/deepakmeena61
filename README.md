@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Machine Learning Engineer with a masters degree in Data Analytics Engineering and Bachelors degree in Electronics and Communicartion Engineering.</br>
+🌱 I’m a Machine Learning Engineer with a Masters degree in Data Analytics Engineering and Bachelors degree in Electronics and Communicartion Engineering.</br>
 👨‍💻  I am passionate about Machine Learning and Software Engineering. I enjoy learning new things. </br>
 
 
