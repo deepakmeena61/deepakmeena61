@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### My Experiences 🙌
 - [Data Scientist (Rotor Technologies Inc)](https://splash.flyrotor.com/) - (June'22-Sep'21)
-- [Machine Learning Engineer (Aliste Technologies)](https://www.alistetechnologies.com) - (Feb'21-July'21)
+- [Machine Learning Engineer (Aliste Technologies)](https://www.alistetechnologies.com) - (Sep'20-July'21)
 <!-- - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present) -->
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepakmeena61&show_icons=true&hide_border=true)&nbsp;&nbsp;
