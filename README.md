@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Machine Learning Engineer with a Masters degree in Data Analytics Engineering and Bachelors degree in Electronics and Communicartion Engineering.</br>
+🌱 I’m a Data Science Analyst at Spirent Communications with a Masters degree in Data Analytics Engineering and Bachelors degree in Electronics and Communicartion Engineering.</br>
 👨‍💻  I am passionate about Machine Learning and Software Engineering. I enjoy learning new things. </br>
 
 
 ### My Experiences 🙌
-- [Data Scientist (Rotor Technologies Inc)](https://splash.flyrotor.com/) - (June'22-Sep'21)
+- [Data Science Analyst (Spirent Communications)](https://www.spirent.com/) - (June'23) 
+- [Data Scientist (Rotor Technologies Inc)](https://splash.flyrotor.com/) - (June'22-Sep'22)
 - [Machine Learning Engineer (Aliste Technologies)](https://www.alistetechnologies.com) - (Sep'20-July'21)
 <!-- - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present) -->
 
