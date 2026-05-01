@@ -8,6 +8,9 @@
 <a href="mailto:deepak.meena61@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://deepakaimeena.vercel.app/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
+</a>
 
 <br /><br />
 
